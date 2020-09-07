@@ -57,9 +57,6 @@
 .sidebar ul li a:hover{
     border-left: 15px solid white;
 }
-a i{
-    margin-right: 15px;
-}
 .social{
     margin-top: 220px;
     display: flex;
